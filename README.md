@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning ...
+
+![github stats](https://github-readme-stats.vercel.app/api?username=endki&show_icons=true&theme=radical&hide=contribs,prs,stars&count_private=true)
+
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=wpfhdkrak)](https://solved.ac/wpfhdkrak)
