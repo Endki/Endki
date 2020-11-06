@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning 'JAVA'
+🌱 I’m currently learning `JAVA`
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=endki&show_icons=true&theme=prussian&hide=contribs,prs,stars&count_private=true)
 
